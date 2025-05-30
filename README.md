@@ -5,6 +5,6 @@ You can download the latest build of the ZenPlatformer Game here:
 
 👉 [Download from GoFile](https://gofile.io/d/3DqMIj)
 
-> 📁 File type: `.zip`  
+> 📁 File type: `.apk`  
 > 🕹️ Includes: Android APK, Unity project, and documentation  
 > 🗓️ Last updated: May 30, 2025
